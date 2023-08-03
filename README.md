@@ -1,2 +1,2 @@
 # UniG-Encoder
-UniG-Encoder: A Universal Feature Encoder for Graph and Hypergraph Representation Learning
+UniG-Encoder: A Universal Feature Encoder for Graph and Hypergraph Node Classication
